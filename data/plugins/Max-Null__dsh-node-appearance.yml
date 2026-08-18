@@ -1,0 +1,6 @@
+url: https://github.com/Max-Null/dsh-node-appearance
+name: Max-Null/dsh-node-appearance
+category: ui
+description:
+  en: 'Colors conversation nodes by node type and tool name with a configurable palette, plus a thinking-process visibility toggle.'
+  zh: 按节点类型/工具名给会话节点着色（可配置配色），附带思考过程显示开关。

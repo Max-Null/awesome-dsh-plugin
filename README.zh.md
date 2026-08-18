@@ -168,6 +168,8 @@ dsh plugin --profile web add dshmarket
 - [magian1127/deepseek-harness-zh_pro](https://github.com/magian1127/deepseek-harness-zh_pro) — DSH 网页中文增强：补全中文界面残留英文、统计行单行完整显示，并提供「增强设置」分区（中文补全 / 统计全显示 / 对话宽度）。
 - [magicOF2/dsh-chat-width-customizer](https://github.com/magicOF2/dsh-chat-width-customizer) — 会话标题栏按钮循环切换对话宽度（748–1600px），消息区、输入框、用户气泡同步加宽。
 - [magicOF2/dsh-turn-marks](https://github.com/magicOF2/dsh-turn-marks) — 会话左侧消息标记条：每发一条消息多一根条条，点击跳转到该消息、悬停预览内容，当前消息对应的条条变白。
+- [Max-Null/dsh-chat-rail](https://github.com/Max-Null/dsh-chat-rail) — 右侧竖条消息导航栏：scroll-spy 跟随阅读位置，hover 展开画卷式预览，点击跳转任意历史消息。
+- [Max-Null/dsh-node-appearance](https://github.com/Max-Null/dsh-node-appearance) — 按节点类型/工具名给会话节点着色（可配置配色），附带思考过程显示开关。
 - [MEMZ-JZY/DSH-Claude-Style-Reasoning-Slider](https://github.com/MEMZ-JZY/DSH-Claude-Style-Reasoning-Slider) — Claude 风格动画推理等级滑块与模型选择器，替换原生模型选择器。
 - [mengyun233/dsh-codex-pet](https://github.com/mengyun233/dsh-codex-pet) — 把 Codex 桌宠皮肤自动迁移到 DSH：右下角动画桌宠随 agent 状态实时变化（思考/工具/等待批准/出错/完成），多会话毛玻璃对话框 + 完整设置面板。
 - [Meredith2328/dsh-sticky-note](https://github.com/Meredith2328/dsh-sticky-note) — 编辑框工具栏便签，随手记点子和 TODO，自动保存为 Markdown，一键发送到对话。

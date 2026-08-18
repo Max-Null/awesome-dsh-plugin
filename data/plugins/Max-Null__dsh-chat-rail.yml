@@ -1,0 +1,6 @@
+url: https://github.com/Max-Null/dsh-chat-rail
+name: Max-Null/dsh-chat-rail
+category: ui
+description:
+  en: 'Right-edge scroll-spy message navigation rail: hover to unroll a scroll-like preview list, click to jump to any historical message.'
+  zh: 右侧竖条消息导航栏：scroll-spy 跟随阅读位置，hover 展开画卷式预览，点击跳转任意历史消息。
