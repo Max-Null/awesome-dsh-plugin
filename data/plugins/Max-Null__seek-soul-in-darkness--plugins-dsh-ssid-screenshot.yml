@@ -2,5 +2,5 @@ url: https://github.com/Max-Null/seek-soul-in-darkness/tree/main/plugins/dsh-ssi
 name: Max-Null/seek-soul-in-darkness#dsh-ssid-screenshot
 category: vision
 description:
-  en: 'SSiD desktop-shell capture for quoting screen content: global hotkey or tray opens a fullscreen box-select overlay (all monitors, per-display pixel-perfect frames), then an annotate step draws red emphasis boxes, and the cropped image lands in the current conversation composer through the official attachment intake.'
-  zh: '思灵桌面壳截图引用：全局快捷键/托盘触发全屏框选（支持多显示器、逐屏像素级抓帧），确认后进入标注——拖拽红色强调框，完成即把截图送进当前会话输入框（官方附件通道，无 DSH 核心改动）。'
+  en: 'Dual-engine screen capture for DSH: inside the SSiD desktop shell, a global hotkey or tray opens a fullscreen box-select overlay (all monitors, per-display pixel-perfect frames) with a red-box annotation step and composer insertion; in plain DSH (browser), the composer camera button captures the display via getDisplayMedia and reuses the same box-select + annotation overlay in-page. The cropped image lands in the current conversation composer through the official attachment intake.'
+  zh: 'DSH 双引擎截图：思灵桌面壳内，全局快捷键/托盘打开全屏框选浮层（多显示器、逐屏像素级抓帧），标注红框后送进输入框；纯 DSH（浏览器）下由输入框相机按钮经 getDisplayMedia 捕获屏幕，复用同一套框选+红框标注遮罩。均走官方附件通道填入当前会话输入框。'
